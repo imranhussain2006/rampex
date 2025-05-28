@@ -2,8 +2,6 @@
 
 int main() {
     int num1, num2;
-
-    // Input two numbers
     printf("Enter first number: ");
     scanf("%d", &num1);
 
